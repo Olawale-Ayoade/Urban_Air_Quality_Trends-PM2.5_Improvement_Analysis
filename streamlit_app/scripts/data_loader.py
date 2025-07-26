@@ -3,7 +3,7 @@ import streamlit as st
 
 # Using Streamlit's caching to speed up repeated data loading
 @st.cache_data
-def load_data(filepath="../data/processed/pm25_cleaned.csv"):
+def load_data(filepath="./data/processed/pm25_cleaned.csv"):
     """
     This function loads the cleaned PM2.5 dataset from the given filepath.
     It also extracts the 'Year' from the 'Period' column and adds it as a new column.
