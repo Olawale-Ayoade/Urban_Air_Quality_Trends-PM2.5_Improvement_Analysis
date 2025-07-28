@@ -2,7 +2,7 @@
 
 ## Interactive Dashboard (Streamlit App)
 
-**Explore the project interactively by clicking: [Streamlit App](./streamlit_app/Home.py)**
+**Explore the project interactively by clicking: [Streamlit App](https://urbanairqualitytrends-pm25improvementanalysis-ufbtfmnidg7ws3to.streamlit.app/)**
 
 
 ## **Project Overview**
